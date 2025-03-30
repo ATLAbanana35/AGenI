@@ -1,8 +1,8 @@
-# Installation Guide for StoryAI
+# Installation Guide for AGenI
 
 ## This is a Windows-Only documentation, Linux users know how to convert the commands (I actually wrote this code on Arch Linux btw)
 
-This guide provides step-by-step instructions to manually install and set up the StoryAI application without running the provided `install_run.py` script.
+This guide provides step-by-step instructions to manually install and set up the AGenI application without running the provided `install_run.py` script.
 
 ---
 
@@ -99,7 +99,7 @@ This guide provides step-by-step instructions to manually install and set up the
 
 ---
 
-Congratulations! You have successfully installed and set up StoryAI. If you encounter any issues, refer to the documentation or seek support from the community.
+Congratulations! You have successfully installed and set up AGenI. If you encounter any issues, refer to the documentation or seek support from the community.
 
 
 Similar code found with 1 license type
